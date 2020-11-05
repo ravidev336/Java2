@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>releases</name>
-            <url>http://40.87.107.64:8082/repository/mvn_rel/</url>
+            <url>http://40.117.117.183:8082/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>snapshots</name>
-            <url>http://40.87.107.64:8082/repository/mvn_snap/</url>
+            <url>http://40.117.117.183:8082/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
